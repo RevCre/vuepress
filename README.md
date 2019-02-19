@@ -1,49 +1,79 @@
-<p align="center">
-  <a href="https://vuepress.vuejs.org/" target="_blank">
-    <img width="180" src="https://raw.githubusercontent.com/vuejs/vuepress/master/packages/docs/docs/.vuepress/public/hero.png" alt="logo">
-  </a>
-</p>
+# 模拟联合国入门
 
-<p align="center">
-  <a href="https://npmcharts.com/compare/vuepress?minimal=true"><img src="https://img.shields.io/npm/dm/vuepress.svg" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/vuepress"><img src="https://img.shields.io/npm/v/vuepress.svg" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/vuepress"><img src="https://badgen.net/npm/v/vuepress/next" alt="npm next version"></a>
-  <a href="https://www.npmjs.com/package/vuepress"><img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
-  <a href="https://discordapp.com/invite/HBherRA"><img src="https://img.shields.io/badge/Discord-join%20chat-738bd7.svg" alt="vuepress channel on Discord"></a>
-</p>
+模拟联合国一开始看起来很吓人或很混乱, 但我们是来帮助这个页面的。"操作变得容易: 如何开始与模拟联合国" 分为四个部分:
+[[toc]]
 
-> This is the branch for `VuePress Next` and docs are available at https://vuepress.vuejs.org.
 
-## Status: alpha
+这将帮助您开始第一次会议。正确地钻研是很重要的, 因为模拟联合国是一项只能通过参与来学习的活动。我们还在本文末尾提供了资源, 供您在第一次会议完成后进行实践和改进, 并准备将您的体验提升到一个新的水平。
 
-Certain combinations of plugins may not work properly, and things may change or break until we reach `beta` phase. Do not use in production yet unless you are adventurous.
+## 什么是模拟联合国, 我如何注册？
 
-For 0.x, it's moved to [0.x branch](https://github.com/vuejs/vuepress/tree/0.x) and still maintained, the website was switching to https://v0.vuepress.vuejs.org.
+模拟[联合国](http://www.un.org)是对联合国的学术模拟, 学生在联合国发挥来自不同国家的代表的作用, 并试图用其指定国家的政策和观点来解决现实世界中的问题。例如, 学生可能被分配到联合王国, 必须从联合王国的政策和角度解决核不扩散或气候变化等全球议题。
 
-> Note that we are working hard to improve the documentation and contributions welcome if you keep up with the latest changes.
+学生可以参加世界各地的模拟联合国会议。这些会议由大学、高中、非营利组织和其他教育团体组织。会议为不同的学术级别提供: 学院和大学、高中、中学和小学。模拟联合国没有中央理事机构--任何学校都可以创建模拟联合国小组, 并登记参加他们希望参加的任何模拟联合国会议。
 
-## Install
+一旦一个团队注册了一个会议, 它就会收到一个代表的国家。该小组的每个学生都将代表该国家参加具有不同主题的不同委员会。例如, 最好的代表高中可以被分配到中国, 在裁军委员会、人权委员会、发展委员会等中有代表中国的不同学生。拥有较大团队的学校将获得更多的国家。
 
-```bash
-yarn add vuepress -D       # Install 0.x.x.
-yarn add vuepress@next -D  # Install next.
-```
+当您或您的俱乐部首次开始使用 mun 时, 您需要选择要参加的会议。访问我们的 mun 会议页面, 查找要参加的会议。
 
-## Showcase
+:::tip 新手建议
+最大的会议是在酒店举行的4天活动, 酒店有3000多名代表, 同一委员会有300多名代表, 但当您刚开始参加会议时, 我们建议您在附近找到一个为期1天或2天的小型新手会议, 以便更轻松地了解 mun 的工作原理。
+:::
 
-Check out [Awesome Vuepress](https://github.com/ulivz/awesome-vuepress) to find awesome things related to VuePress.
+## 如何为我的第一次会议做准备？
 
-## Development
+注册会议后, 您将收到您的国家任务、委员会及其主题。大多数会议都提供了介绍主题的背景指南或主题概要-请先阅读。
 
-> Please make sure your version of Node.js is greater than 8.
+在您进入第一次会议之前, 通常需要准备三个项目: **立场文件 (有时称为 "政策声明")、"您的开幕演讲" 和 "研究活本机"**。一些新手会议可能还需要一个国家概况。
 
-``` bash
-yarn dev  # serves VuePress' own docs with itself
-yarn test # make sure your code change pass the test
-```
+1. 立场文件 (或政策声明)
 
-If you intend to make `"substantial"` changes to VuePress or its documentation, please checkout [VuePress RFCs](./rfcs/README.md).
+立场文件是一、两页的文件, 本质上是你对该主题的了解以及贵国在进入委员会时计划采取的立场的总结。它通常包含四个部分: 主题背景、过去的国际行动、国家政策和可能的解决方案。立场文件通常在会前提交。
 
-## License
+下面列出了研究每个部分的关键起点。它们将帮助您开始参加第一次模拟联合国会议, 但随着您积累更多经验, 您将希望更深入地挖掘。
 
-[MIT](https://github.com/vuejs/vuepress/blob/master/LICENSE)
+- `背景主题`: 背景指南的主题由会议、谷歌、新闻、维基百科 (框架主题)
+
+- `过去的国际行动`: 联合国网站、你的委员会网站、你的背景指南中提到的主要条约或决议、联合国或非政府组织的报告
+
+- `国家政策`: 中情局世界概况、贵国外交部网站、贵国国内项目以及贵国对主要条约或决议的投票记录
+
+- `可能的解决方案`: 非政府组织或智库政策建议, 过去的联合国决议, 你想改变或扩大, 以及你自己的创造力!
+
+2. 开幕致辞
+
+开幕演讲通常持续约1分钟或 1分30秒, 是你第一次向委员会发表演讲。这是你解释国家政策和你希望委员会关注的关键子问题的最佳机会。开幕演讲是各国确定想与谁合作的主要方式, 所以准备一份传达这一点的演讲很重要。关于如何发表开场演讲, 有很多技巧和策略, 但在刚开始的时候, 要用你的立场论文作为指南。最重要的行动就是勇敢地发表你的第一次演讲。
+
+3. 研究粘结剂
+
+研究粘结剂是可选的, 但建议强烈, 特别是因为许多会议不允许在委员会中使用技术。一个有组织的研究活页夹将是你在会议期间的首选资源, 因为新的术语和首字母缩写词, 以前的决议和条约, 以及可能的解决方案。下面是建议的列表
+
+4. 如何编写分辨率
+
+代表们将与他们将与之合作的其他国家一起编写一份名为 "委员会决议" 的文件。重要的是要知道决议的格式和短语, 但大多数会议不允许预先写的决议, 因为他们希望各国在委员会期间合作。有关更具体的详细信息, 请参阅如何编写解决方案。
+
+5. 国家概况
+
+国家/地区配置文件是一个工作表, 可帮助您了解您的国家/地区, 您的会议可能不一定需要该工作表。填写国家概况所需的大部分信息都可以在中情局的《世界概况》中找到。如有必要, 国家概况通常与《立场文件》同时到期。
+
+## 委员会中典型的一天会是什么样子？
+
+注: 模拟联合国没有标准, 不同的会议可能以不同的方式进行辩论和议事规则。最常用的两个议事规则是北美/美国联合国协会程序和 themun 程序;大多数会议的议事规则都是从这两个会议中复制或修改的。以联合国实际程序为基础的新程序已开始发展, 称为 un4mun 程序, 并在世界各地的 mun 委员会中扎根。另外, 一些危机委员会可能会采用一套定制的规则和辩论形式运作, 但你可能不会在第一次会议上遇到这种情况。几乎所有模拟联合国会议都采用某种形式的议会程序, 这与实际联合国使用的建立共识程序有很大不同。
+
+然而, 也有相似之处, 每个委员会的目标 (危机除外) 都是制作和通过一份名为 "物" 的文件
+
+::: tip 最后的说明
+
+请注意, 上面的描述适用于典型的一天。它们没有解释辩论和议事规则的整个流
+程, 这些辩论和规则将因会议而异。我们还漏掉了委员会中使用的许多要点和动议。作为一个新的代表, 最重要的是积极参与。每当你有问题的时候, 问一个 "询问点", 让有经验的代表解释发生了什么, 或者只是跟着其他人在做什么。
+:::
+
+## 我可以做些什么来改进？
+
+- 您只能在模拟联合国中了解和改进有经验的信息, 因此请务必参加您的第一次会议, 并计划参加更多的会议!以下是全球大型会议清单。
+
+- 最佳代表在我们的网站上有许多不同的资源, 我们在整个学年不断地制作许多文章和指南。如果网站上的提示是基本的为您, 请获取高级委托指南指南, 其中包含我们的许多高级策略。
+
+- 每年夏季, 最佳代表为我们的模拟联合国研究所以及 mun 方案的私人讲习班提供服务。我们还为教师顾问提供免费培训课程。请随时与我们联系, 在 info@bestdelegate.com。
+
+祝你好运, 玩得开心!
